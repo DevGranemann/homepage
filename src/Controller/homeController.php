@@ -35,9 +35,6 @@ class homeController extends AbstractController
             'categories' => $categories,
             'pageTitle' => $pageTitle,
             
-
-            
-
         ]);
     }
     #[Route('/categoria/{slug}', name:'app_category')]
@@ -66,8 +63,6 @@ class homeController extends AbstractController
 
             'categories' => $categories,
             'pageTitle' => $pageTitle,
-            
-
             
 
         ]);

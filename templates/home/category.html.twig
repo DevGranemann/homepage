@@ -1,8 +1,12 @@
 {% extends 'base.html.twig' %}
 {% block title %}{{ pageTitle }}{% endblock %}
 
-{% block body %}
-  <main class="container">
-    Lista de notícias
-  </main>
+{% block body %}  
+  <ul>
+    {% for categorie in categories %}
+      <li>
+        {{ categorie.text }}
+      </li>
+    {% endfor %}
+  </ul>
 {% endblock %}
