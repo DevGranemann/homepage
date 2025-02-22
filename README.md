@@ -16,7 +16,8 @@ As informações com o nome de 'text' são trazidas de dentro da variável chama
 Dessa maneira, conseguimos organizar bem os arquivos do nosso projeto, separando a "lógica" da visualização. O Symfony 
 é incrível! Vejamos como ficou o exemplo dentro das categorias de notícias: 
 <br><br>
-<img width="1447" alt="category" src="https://github.com/user-attachments/assets/d77b5753-f179-45fb-9970-86e8c2d0acd6" />
+<img width="812" alt="category" src="https://github.com/user-attachments/assets/30ceab28-2270-47d2-800a-e99f5202afb9" />
+
 
 
 
